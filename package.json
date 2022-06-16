@@ -1,0 +1,33 @@
+{
+  "name": "lesson_2_servers",
+  "version": "1.0.1",
+  "description": "The package has three different types of servers: net, upd, http",
+  "main": false,
+  "scripts": {
+    "test": false
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexPasichnyak/lesson_2_servers.git"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "upd",
+    "net",
+    "request",
+    "rest"
+  ],
+  "author": "AlexPasichnyak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexPasichnyak/lesson_2_servers/issues"
+  },
+  "homepage": "https://github.com/AlexPasichnyak/lesson_2_servers#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "19.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.17.0"
+  }
+}
